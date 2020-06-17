@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/e_auction/static/css/main.1c207834.chunk.css",
+    "main.js": "/e_auction/static/js/main.38dc85e6.chunk.js",
+    "main.js.map": "/e_auction/static/js/main.38dc85e6.chunk.js.map",
+    "runtime-main.js": "/e_auction/static/js/runtime-main.04f34de4.js",
+    "runtime-main.js.map": "/e_auction/static/js/runtime-main.04f34de4.js.map",
+    "static/js/2.8114bd75.chunk.js": "/e_auction/static/js/2.8114bd75.chunk.js",
+    "static/js/2.8114bd75.chunk.js.map": "/e_auction/static/js/2.8114bd75.chunk.js.map",
+    "index.html": "/e_auction/index.html",
+    "precache-manifest.a9d323d073b7c74391064503aac18f84.js": "/e_auction/precache-manifest.a9d323d073b7c74391064503aac18f84.js",
+    "service-worker.js": "/e_auction/service-worker.js",
+    "static/css/main.1c207834.chunk.css.map": "/e_auction/static/css/main.1c207834.chunk.css.map",
+    "static/js/2.8114bd75.chunk.js.LICENSE.txt": "/e_auction/static/js/2.8114bd75.chunk.js.LICENSE.txt",
+    "static/media/item1.jpg": "/e_auction/static/media/item1.0a089d77.jpg",
+    "static/media/item2.jpg": "/e_auction/static/media/item2.c68c6122.jpg",
+    "static/media/item3.jpg": "/e_auction/static/media/item3.86fef79a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04f34de4.js",
+    "static/js/2.8114bd75.chunk.js",
+    "static/css/main.1c207834.chunk.css",
+    "static/js/main.38dc85e6.chunk.js"
+  ]
+}
